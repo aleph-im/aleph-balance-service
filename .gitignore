@@ -51,3 +51,6 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 .conda*/
+
+# SQLite DB
+aleph-balance.db
